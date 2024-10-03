@@ -53,6 +53,7 @@ ex) user_id     / follower    / following
 
 ![image](https://github.com/user-attachments/assets/d521091a-30f7-4e31-97d8-70407107793f)
 
-![image](https://github.com/user-attachments/assets/aed625b8-1474-4d8d-b9ff-91dd803ca721)
+![image](https://github.com/user-attachments/assets/74c411ca-236b-48fe-a1b3-ea2e82285d47)
+
 
 
