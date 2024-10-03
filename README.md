@@ -1,6 +1,6 @@
 # Project-Instagram-Database-Design
 
-과정 ) 
+**과정 )**
 1. ER다이어그램 (데이터베이스 생성 전의 설계도, 논리적인 구조를 표현) 을 그립니다. (사용할 엔티티와 관계를 생각해 그린다)
 - User, post, image, hasting , follow 엔티티 생성 
 
