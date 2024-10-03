@@ -49,9 +49,10 @@ ex) user_id     / follower    / following
 
 ![image](https://github.com/user-attachments/assets/e3bf0dc1-3ced-4f51-9a4d-6d3e46c2de5a)
 
-(ui)
+**(ui)**
 
 ![image](https://github.com/user-attachments/assets/d521091a-30f7-4e31-97d8-70407107793f)
+
 ![image](https://github.com/user-attachments/assets/aed625b8-1474-4d8d-b9ff-91dd803ca721)
 
 
