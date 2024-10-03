@@ -40,5 +40,6 @@ ex) user_id     / follower    / following
 ![image](https://github.com/user-attachments/assets/d65ee046-fa3b-45d8-a486-0676bc1ef6e9)
 
 3-> 스키마 그리기 
+
 ![image](https://github.com/user-attachments/assets/e3bf0dc1-3ced-4f51-9a4d-6d3e46c2de5a)
 
