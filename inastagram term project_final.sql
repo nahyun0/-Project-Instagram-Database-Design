@@ -1,3 +1,7 @@
+# .gitattributes 파일 내용
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
+  
 # 최종
 create database insta8;
 use insta8;
